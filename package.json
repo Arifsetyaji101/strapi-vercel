@@ -15,6 +15,7 @@
     "@strapi/plugin-users-permissions": "4.6.2",
     "@strapi/strapi": "4.6.2",
     "better-sqlite3": "8.0.1",
+    "hostname": "^1.0.5",
     "strapi-plugin-vercel-deploy": "^1.4.0"
   },
   "author": {
